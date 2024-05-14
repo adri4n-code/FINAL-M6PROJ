@@ -1,4 +1,5 @@
 # FINAL-M6PROJ
+¡¡¡¡¡¡¡¡¡¡IMPORTANTE, FALTAN TRES COSAS LA CARPETA VENDOR, composer.lock y composer,estan por separado ya que dentro del proyecto no me dejaba subirlo!!!!!
 Proyecto final 2ºDAW
 Mejoras que se han hecho:
 Back
