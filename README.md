@@ -7,3 +7,6 @@ Back
 Front
 -Leve modificación de la estructura,
 -Codificación en el form de registro añadiendo estilos en movimiento y en el boton de inicio con google.
+
+para instalar el composer que crea esos tres archivos son los que he mencionado antes.
+composer require google/apiclient:"^2.0"
